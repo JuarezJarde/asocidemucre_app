@@ -1,0 +1,10 @@
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones del editor de código
+.vscode/
+.idea/
+
+# Ignorar el archivo de conexión real (Por ahora no)
+# config/conexion.php
